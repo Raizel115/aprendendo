@@ -17,3 +17,4 @@ git status #mostra se tem arquivos criados, modificados ou excluidos.
 #também informa se o repositor remoto está a atualizado com o local e vice-versa 
 git status
 ```
+
